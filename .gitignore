@@ -15,3 +15,9 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+# UID files (Godot 4)
+*.uid
+
+# OS junk files
+.DS_Store
+Thumbs.db
